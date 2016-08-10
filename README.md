@@ -18,6 +18,10 @@ A full description of these roles can be [found here](https://nzpug.org/nzpug/cu
  
 ## How to Nominate Yourself:
 
-To nominate yourself, [open an issue against this repository](https://github.com/nzpug/AGM2016/issues). In the issue text, state your name, which position(s) you are applying for, and a little bit of information about yourself.
+To nominate yourself, [open an issue against this repository](https://github.com/nzpug/AGM2016/issues). In the issue text, please include the following information:
+
+ * Your name.
+ * Which position(s) you are applying for.
+ * A little bit of information about yourself.
 
 You must be present at the AGM meeting, either in person or remotely in order to be eligable for election.
