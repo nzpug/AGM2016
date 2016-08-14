@@ -10,9 +10,9 @@ The following positions are elected every year:
  * Vice-president
  * Secretary
  * Treasurer
- * Adittional committee member 1
- * Adittional committee member 2
- * Adittional committee member 3
+ * Additional committee member 1
+ * Additional committee member 2
+ * Additional committee member 3
 
 A full description of these roles can be [found here](https://nzpug.org/nzpug/current-committee/)
  
